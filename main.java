@@ -7,7 +7,6 @@ public class Main {
             example.divide();
             example.printName();
         } catch (Exception e) {
-            e.printStackTrace();
             System.out.println("Failed");
         }
     }
